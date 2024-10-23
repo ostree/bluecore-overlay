@@ -1,7 +1,7 @@
 ## Gentoo Linux Portage Bluecore overlay
 **bluecore-overlay**
 
-<div style="text-align:center">
+<div style="text-align:center width="30%">
 
 ![logo](img/logo.png)
 
