@@ -1,5 +1,5 @@
 ## Gentoo Linux Portage Bluecore overlay
-<img width="40%" src="https://github.com/ostree/bluecore-overlay/blob/master/img/logo.png">
+<img width="40%" align="right" src="https://github.com/ostree/bluecore-overlay/blob/master/img/logo.png">
 <p align="right" width="40%" >
   
 Bluecore Ovelray home : [https://git.hackerspace.edu.pl](https://git.hackerspace.edu.pl)
