@@ -1,7 +1,7 @@
 ## Gentoo Linux Portage Bluecore overlay
 **bluecore-overlay**
 
-![logo](https://github.com/user-attachments/assets/56203aea-0c21-40ae-8a6b-18e5bcd4c6ed)
+![logo](img/logo.png)
 
 
 Bluecore Ovelray home : [https://git.hackerspace.edu.pl](https://git.hackerspace.edu.pl)

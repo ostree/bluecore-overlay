@@ -3,13 +3,13 @@
     <repo quality="experimental" status="unofficial">
       <name>bluecore-overlay</name>
       <description lang="en">Gentoo Bluecore Overlay </description>
-      <homepage>https://github.com/richardredditch/bluecore-overlay</homepage>
+      <homepage>https://github.com/ostree/bluecore-overlay</homepage>
       <owner type="person">
         <email>rr@ostree.pl</email>
         <name>richardredditch</name>
       </owner>
-      <source type="git">https://github.com/richardredditch/bluecore-overlay.git</source>
-      <source type="git">git+ssh://git@github.com/richardredditch/bluecore-overlay.git</source>
-      <feed>https://github.com/richardredditch/bluecore-overlay/commits/master.atom</feed>
+      <source type="git">https://github.com/ostree/bluecore-overlay.git</source>
+      <source type="git">git+ssh://git@github.com/ostree/bluecore-overlay.git</source>
+      <feed>https://github.com/ostree/bluecore-overlay/commits/master.atom</feed>
     </repo>
 </repositories>
