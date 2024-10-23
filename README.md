@@ -1,12 +1,15 @@
 ## Gentoo Linux Portage Bluecore overlay
 **bluecore-overlay**
 
+![logo](https://github.com/user-attachments/assets/56203aea-0c21-40ae-8a6b-18e5bcd4c6ed)
+
+
 Bluecore Ovelray home : [https://git.hackerspace.edu.pl](https://git.hackerspace.edu.pl)
 
 [Add the repository](#add-the-repository)\
 [Install Bluecore](#install-bluecore)\
 &nbsp;&nbsp;&nbsp;&nbsp;[Global information and requirements](#global-information-and-requitements)\
-&nbsp;&nbsp;&nbsp;&nbsp;[Global information and requirements](#global-information-and-requitements)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Global information and requirements](#global-information-and-requitements)
 
 ## Add the repository
 
