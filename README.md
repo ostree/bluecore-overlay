@@ -26,7 +26,7 @@ or just:
 
 ```bash
 # Add the following lines in a file names /etc/portage/repos.conf/bluecore-overlay.conf
-[bluecore-gentoo]
+[bluecore-overlay]
 location = /var/db/repos/bluecore-overlay
 auto-sync = yes
 sync-uri = https://github.com/ostree/bluecore-overlay
