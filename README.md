@@ -30,6 +30,7 @@ or just:
 location = /var/db/repos/bluecore-overlay
 auto-sync = yes
 sync-uri = https://github.com/ostree/bluecore-overlay
+sync-type = git
 ```
 
 
