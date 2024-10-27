@@ -11,7 +11,7 @@ HOMEPAGE="https://www.privoxy.org https://sourceforge.net/projects/ijbswa/"
 
 EGIT_REPO_URI="https://www.privoxy.org/git/privoxy.git"
 EGIT_BRANCH=master
-
+EGIT_COMMIT=3bc4eac301dbcdbbd9dd43c00f8565f399cd5b46
 LICENSE="GPL-2+"
 SLOT="0"
 KEYWORDS="~alpha amd64 arm ~arm64 ppc ppc64 ~riscv sparc x86"
