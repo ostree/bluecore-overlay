@@ -2,7 +2,10 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-inherit user
+EAPI=8
+
+inherit flag-o-matic
+#inherit user
 
 DESCRIPTION="Libpcap-based packet logger and soft tap"
 HOMEPAGE="http://www.snort.org/users/roesch/Site/Daemonlogger/Daemonlogger.html"
