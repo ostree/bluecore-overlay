@@ -1,8 +1,10 @@
 # Copyright 1999-2012 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
+EAPI=8
 
-inherit user
+inherit flag-o-matic
+#inherit user
 
 DESCRIPTION="Libpcap-based packet logger and soft tap"
 HOMEPAGE="http://www.snort.org/users/roesch/Site/Daemonlogger/Daemonlogger.html"
